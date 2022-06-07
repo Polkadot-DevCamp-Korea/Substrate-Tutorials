@@ -1,7 +1,7 @@
 # 6_permissioned-network
 In this tutorial, you will learn how to build a permissioned network with Substrate by using the node-authorization pallet.
 
-**Collaborators** : [Myungha Cho](https://github.com/chomyungha51) [Chaerin Kim](https://github.com/decentra1ized) [Hyemin Kim]()
+**Collaborators** : [Myungha Cho](https://github.com/chomyungha51) [Chaerin Kim](https://github.com/decentra1ized) [Hyemin Kim](https://github.com/Hyemin-xxx)
 
 ## Materials
 <img src="ppt/9e926ab85b331d8f84f96732947bd5a5-0.png"  width="700">
